@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**NssIs/NssIs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 NssIs
 
-Here are some ideas to get you started:
+### building things that should be simpler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🧠 About
+
+I like turning messy, unintuitive systems into something clean and predictable.
+
+Currently focused on:
+- 🖥️ CLI & shell design
+- 🦀 Rust
+- 🤖 tools that work better with AI
+
+---
+
+## 🚀 Current Project
+
+### ⚡ ellsh
+
+> A semantic shell designed for humans and language models.
+
+```ellsh
+create-file notes.txt
+find-text "error" in logs/
+move-file draft.txt archive/
