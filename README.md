@@ -14,5 +14,5 @@ I like turning messy, unintuitive systems into something clean and predictable.
 
 Currently focused on:
 - 🦀 Rust
-- 
+
 ---
