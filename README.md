@@ -1,18 +1,39 @@
 <div align="center">
 
-# 👋 NssIs
+# 𝕸𝖆𝖈𝖐𝖎𝖘𝖍
 
-### building things that should be simpler
+**Curiosity over comfort.**
+
+I like building things that sound impossible — as long as they're interesting enough to be fun.
+
+<br />
+
+[![Rust](https://img.shields.io/badge/Rust-171719?style=flat-square&logo=rust&logoColor=F05032)](https://www.rust-lang.org/)
+[![Unix/Linux](https://img.shields.io/badge/Unix%20%2F%20Linux-171719?style=flat-square&logo=linux&logoColor=FCC624)](https://www.kernel.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-171719?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/themackish)
 
 </div>
 
 ---
 
-## 🧠 About
+### `> whoami`
 
-I like turning messy, unintuitive systems into something clean and predictable.
+I'm into coding in general, especially ideas that look a little unreasonable at first. The challenge is part of the fun; figuring it out is the point.
 
-Currently focused on:
-- 🦀 Rust
+### `> interests`
 
----
+- Rust
+- Unix / Linux
+- Odd ideas and ambitious experiments
+
+### `> explore`
+
+I’ll leave the introductions short. Have a look through the repositories and see what you find.
+
+<div align="center">
+
+[![Explore repositories](https://img.shields.io/badge/Explore%20repositories-8f2635?style=for-the-badge&logo=github&logoColor=white)](https://github.com/themackish?tab=repositories)
+
+<sub>Less noise. More curiosity.</sub>
+
+</div>
