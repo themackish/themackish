@@ -4,7 +4,7 @@
 
 **Curiosity over comfort.**
 
-I like building things that sound impossible — as long as they're interesting enough to be fun.
+I like building things that sound impossible, as long as they're interesting enough to be fun.
 
 <br />
 
@@ -23,7 +23,7 @@ I'm into coding in general, especially ideas that look a little unreasonable at 
 ### `> interests`
 
 - Rust
-- Unix / Linux
+- Unix & Linux
 - Odd ideas and ambitious experiments
 
 ### `> explore`
